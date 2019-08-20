@@ -1,0 +1,29 @@
+.card {
+    border-radius: 5%;
+    padding: 25px;
+    box-shadow: 5px 10px 18px #888;
+}
+
+.fas {
+    font-size: 200px;
+    color: orange;
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.btn {
+    color: orange;
+    background-color: cornflowerblue;
+    
+}
+
+.nav-item {
+    color: orange;
+}
